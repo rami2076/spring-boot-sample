@@ -1,0 +1,6 @@
+app:
+  new-coronavirus:
+    # リンク先参照先は以下。
+    # https://corona.go.jp/dashboard/
+    url:
+      specifiedDateAndPrefecturesData: https://opendata.corona.go.jp/api/Covid19JapanAll?date={yyyyMMdd}&dataName={県名}

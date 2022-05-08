@@ -1,0 +1,6 @@
+app:
+  new-coronavirus:
+    # ???????????
+    # https://corona.go.jp/dashboard/
+    url:
+      specifiedDateAndPrefecturesData: https://opendata.corona.go.jp/api/Covid19JapanAll?date={yyyyMMdd}&dataName={??}
